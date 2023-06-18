@@ -64,7 +64,7 @@ while opcion != 4:
 
 	opcion = int(input("\n Elige una opción: "))
 
-	if 	 opcion == 1: crear()
+	if   opcion == 1: crear()
 	elif opcion == 2: modificar()
 	elif opcion == 3: borrar()
 
