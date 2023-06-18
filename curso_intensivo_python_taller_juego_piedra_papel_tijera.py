@@ -77,9 +77,9 @@ puntos_ordenador= 0
 for cada in range(10):
 
 	tirada_jugador = jugador()
-	print(tirada_jugador)
+	# print(tirada_jugador)
 	tirada_ordenador = ordenador()
-	print(tirada_ordenador)
+	# print(tirada_ordenador)
 
 	ganador = compara(tirada_jugador,tirada_ordenador)
 
